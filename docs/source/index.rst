@@ -1,22 +1,11 @@
-Welcome to Lumache's documentation!
+Les Acteurs du Numérique aux Antilles-Guyane - Documentation Open Data
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Bienvenue dans la documentation Open Data des Acteurs du Numérique en Martinique, Guadeloupe et Guyane. Ce document a pour but de fournir une vue complète et accessible des données ouvertes relatives aux entreprises, startups, associations, et initiatives numériques qui dynamisent l'écosystème local.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+## Description des Données
+Une section qui détaille la nature des données disponibles. Ici, tu pourrais décrire :
 
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+- Les types d'entités couvertes (entreprises, associations, etc.).
+- Les attributs de chaque entité (nom, adresse, domaine d'activité, contact, etc.).
+- La source des données (comment et où elles ont été collectées).
