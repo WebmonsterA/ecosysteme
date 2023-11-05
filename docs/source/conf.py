@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Ecosystème'
+project = 'Les acteurs du numérique'
 copyright = '2023, Webmonster'
 author = 'Webmonster'
 
